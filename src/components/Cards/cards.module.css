@@ -1,0 +1,27 @@
+.card {
+	width: 260px;
+	overflow: hidden;
+	margin: 15px;
+	border-radius: 15px;
+	background: white;
+	display: flex;
+	flex-wrap: wrap;
+	flex-direction: column;
+}
+
+.image img {
+	width: 100%;
+	height: 370px;
+	margin-bottom: 15px;
+}
+
+.title {
+	width: 100%;
+	display: flex;
+	flex-direction: column;
+	text-align: center;
+}
+
+.plot{
+	padding: 5px;
+}
